@@ -1,0 +1,38 @@
+name: Aggiorna calendario Europei
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aggiorna-calendario
+  cancel-in-progress: false
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rigenera il calendario
+        run: python genera.py
+
+      - name: Pubblica se e' cambiato qualcosa
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add europei.ics stato.json
+          if git diff --staged --quiet; then
+            echo "niente da pubblicare"
+          else
+            git commit -m "aggiornamento $(date -u +'%d/%m %H:%M UTC')"
+            git push
+          fi
