@@ -1,0 +1,1844 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Paolo//Europei Atletica Birmingham 2026//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Europei atletica 2026 - Azzurri
+X-WR-TIMEZONE:Europe/Rome
+X-PUBLISHED-TTL:PT15M
+REFRESH-INTERVAL;VALUE=DURATION:PT15M
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ea26-72d05c76abe2@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260810T113500
+DTEND;TZID=Europe/Rome:20260810T132500
+SUMMARY:[Q] Getto del peso (femminile) - qualificazioni | Musci\, Vertera
+ mo
+DESCRIPTION:Azzurri: Musci\, Verteramo\nPresenza italiana confermata.\nOr
+ ario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (i
+ n chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\,
+  HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-48104d0f4559@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260810T114000
+DTEND;TZID=Europe/Rome:20260810T133000
+SUMMARY:[Q] Lancio del martello (maschile) - qualificazioni | Olivieri
+DESCRIPTION:Azzurri: Olivieri\nPresenza italiana confermata.\nOrario ital
+ iano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)
+ \, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\
+ , Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-53925dd3544a@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260810T114500
+DTEND;TZID=Europe/Rome:20260810T122000
+SUMMARY:[B] 800 metri (maschile) - batterie | Lazzaro\, Pernici\, Tecucea
+ nu
+DESCRIPTION:Azzurri: Lazzaro\, Pernici\, Tecuceanu\nPresenza italiana con
+ fermata.\nOrario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai
+  Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NO
+ W\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-72398832dad3@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260810T122500
+DTEND;TZID=Europe/Rome:20260810T130000
+SUMMARY:[B] 100 metri (femminile) - batterie | Hooper
+DESCRIPTION:Azzurri: Hooper\nPresenza italiana confermata.\nOrario italia
+ no. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\,
+  Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, 
+ Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-4bb868f5e420@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260810T123000
+DTEND;TZID=Europe/Rome:20260810T142000
+SUMMARY:[Q] Salto in lungo (maschile) - qualificazioni | Furlani\, Inzoli
+DESCRIPTION:Azzurri: Furlani\, Inzoli\nPresenza italiana confermata.\nOra
+ rio italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in
+  chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, 
+ HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-01809f2ecc20@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260810T125500
+DTEND;TZID=Europe/Rome:20260810T133000
+SUMMARY:[B] 400 metri (maschile) - batterie | Benati\, Sito\, Soudassi
+DESCRIPTION:Azzurri: Benati\, Sito\, Soudassi\nPresenza italiana conferma
+ ta.\nOrario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Spor
+ t HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, S
+ ky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-b919d5495fd0@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260810T133500
+DTEND;TZID=Europe/Rome:20260810T141000
+SUMMARY:[B] 400 ostacoli (femminile) - batterie | Sartori
+DESCRIPTION:Azzurri: Sartori\nPresenza italiana confermata.\nOrario itali
+ ano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\
+ , Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\,
+  Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-840f0c930d0c@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260810T134000
+DTEND;TZID=Europe/Rome:20260810T153000
+SUMMARY:[Q] Getto del peso (maschile) - qualificazioni | Fabbri\, Ferrara
+ \, Ponzio
+DESCRIPTION:Azzurri: Fabbri\, Ferrara\, Ponzio\nPresenza italiana conferm
+ ata.\nOrario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Spo
+ rt HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, 
+ Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-a896f99e1050@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260810T200300
+DTEND;TZID=Europe/Rome:20260810T213300
+SUMMARY:[F] Getto del peso (femminile) - finale (eventuale) | Musci\, Ver
+ teramo
+DESCRIPTION:Azzurri: Musci\, Verteramo\nPresenza italiana non ancora cert
+ a: dipende dal turno precedente.\nOrario italiano. A Birmingham un'ora i
+ n meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1.
+  Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-4e661c56da5d@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260810T201000
+DTEND;TZID=Europe/Rome:20260810T220000
+SUMMARY:[Q] Lancio del martello (femminile) - qualificazioni | Fantini\, 
+ Mori
+DESCRIPTION:Azzurri: Fantini\, Mori\nPresenza italiana confermata.\nOrari
+ o italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in c
+ hiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HB
+ O Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-f68809891ef4@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260810T203500
+DTEND;TZID=Europe/Rome:20260810T211000
+SUMMARY:[B] 100 ostacoli - batterie | Carmassi\, Carraro\, Polzonetti
+DESCRIPTION:Azzurri: Carmassi\, Carraro\, Polzonetti\nPresenza italiana c
+ onfermata.\nOrario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / R
+ ai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, 
+ NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-3d70c0347341@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260810T205500
+DTEND;TZID=Europe/Rome:20260810T224500
+SUMMARY:[Q] Salto triplo (femminile) - qualificazioni | Derkach\, Saracen
+ i
+DESCRIPTION:Azzurri: Derkach\, Saraceni\nPresenza italiana confermata.\nO
+ rario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (
+ in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\
+ , HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-b3bb03527100@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260810T211000
+DTEND;TZID=Europe/Rome:20260810T213500
+SUMMARY:[SF] 100 metri (femminile) - semifinali (eventuale) | Dosso\, Hoo
+ per
+DESCRIPTION:Azzurri: Dosso\, Hooper\nPresenza italiana non ancora certa: 
+ dipende dal turno precedente.\nOrario italiano. A Birmingham un'ora in m
+ eno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. St
+ reaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-42f80a85231f@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260810T213000
+DTEND;TZID=Europe/Rome:20260810T230000
+SUMMARY:[F] Getto del peso (maschile) - finale (eventuale) | Fabbri\, Pon
+ zio\, Weir
+DESCRIPTION:Azzurri: Fabbri\, Ponzio\, Weir\nPresenza italiana non ancora
+  certa: dipende dal turno precedente.\nOrario italiano. A Birmingham un'
+ ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurospo
+ rt 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-c0d8ed4e855d@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260810T214000
+DTEND;TZID=Europe/Rome:20260810T220000
+SUMMARY:[F] 5000 metri (maschile) - finale | Guerra\, Maggi\, Parolini
+DESCRIPTION:Azzurri: Guerra\, Maggi\, Parolini\nPresenza italiana conferm
+ ata.\nOrario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Spo
+ rt HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, 
+ Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:5000 metri tra 15 minuti
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-9fc699265117@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260810T220000
+DTEND;TZID=Europe/Rome:20260810T223500
+SUMMARY:[B] 3000 siepi (femminile) - batterie | Colli
+DESCRIPTION:Azzurri: Colli\nPresenza italiana confermata.\nOrario italian
+ o. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, 
+ Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, D
+ iscovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-e993b6fb728a@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260810T223700
+DTEND;TZID=Europe/Rome:20260810T225200
+SUMMARY:[F] 4×400 (mista) - finale | Italia
+DESCRIPTION:Azzurri: Italia\nPresenza italiana confermata.\nOrario italia
+ no. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\,
+  Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, 
+ Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:4×400 tra 15 minuti
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-0ff27722f571@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260810T225000
+DTEND;TZID=Europe/Rome:20260810T230500
+SUMMARY:[F] 100 metri (femminile) - finale (eventuale) | Dosso\, Hooper
+DESCRIPTION:Azzurri: Dosso\, Hooper\nPresenza italiana non ancora certa: 
+ dipende dal turno precedente.\nOrario italiano. A Birmingham un'ora in m
+ eno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. St
+ reaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-4742232179ad@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260811T113300
+DTEND;TZID=Europe/Rome:20260811T132300
+SUMMARY:[Q] Salto in alto (maschile) - qualificazioni | Falocchi\, Sioli\
+ , Stronati\, Tamberi
+DESCRIPTION:Azzurri: Falocchi\, Sioli\, Stronati\, Tamberi\nPresenza ital
+ iana confermata.\nOrario italiano. A Birmingham un'ora in meno.\nTV: Rai
+  2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiP
+ lay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-a9454378b69c@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260811T113500
+DTEND;TZID=Europe/Rome:20260811T132500
+SUMMARY:[Q] Lancio del disco (maschile) - qualificazioni | Mannucci\, Mus
+ ci\, Saccomano
+DESCRIPTION:Azzurri: Mannucci\, Musci\, Saccomano\nPresenza italiana conf
+ ermata.\nOrario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai 
+ Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW
+ \, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-2cdff322d8f9@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260811T114500
+DTEND;TZID=Europe/Rome:20260811T121000
+SUMMARY:[SF] 400 ostacoli (femminile) - semifinali (eventuale) | Foloruns
+ o\, Muraro\, Sartori
+DESCRIPTION:Azzurri: Folorunso\, Muraro\, Sartori\nPresenza italiana non 
+ ancora certa: dipende dal turno precedente.\nOrario italiano. A Birmingh
+ am un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, E
+ urosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-2874999ea465@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260811T121500
+DTEND;TZID=Europe/Rome:20260811T125000
+SUMMARY:[B] 100 metri (maschile) - batterie | Ceccarelli\, Randazzo
+DESCRIPTION:Azzurri: Ceccarelli\, Randazzo\nPresenza italiana confermata.
+ \nOrario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport H
+ D (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky 
+ Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-28b903c629e1@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260811T124000
+DTEND;TZID=Europe/Rome:20260811T131500
+SUMMARY:[B] 110 ostacoli - batterie | Mulas
+DESCRIPTION:Azzurri: Mulas\nPresenza italiana confermata.\nOrario italian
+ o. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, 
+ Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, D
+ iscovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-4c7122a6182d@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260811T130500
+DTEND;TZID=Europe/Rome:20260811T134000
+SUMMARY:[B] 800 metri (femminile) - batterie | Coiro
+DESCRIPTION:Azzurri: Coiro\nPresenza italiana confermata.\nOrario italian
+ o. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, 
+ Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, D
+ iscovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-c47afaa2d1bc@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260811T134000
+DTEND;TZID=Europe/Rome:20260811T141500
+SUMMARY:[B] 400 ostacoli (maschile) - batterie | Bertoncelli\, Sommacal
+DESCRIPTION:Azzurri: Bertoncelli\, Sommacal\nPresenza italiana confermata
+ .\nOrario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport 
+ HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky
+  Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-b16298552a55@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260811T200500
+DTEND;TZID=Europe/Rome:20260811T215500
+SUMMARY:[Q] Salto con l’asta (femminile) - qualificazioni | Malavisi\, 
+ Molinarolo\, Scardanzan
+DESCRIPTION:Azzurri: Malavisi\, Molinarolo\, Scardanzan\nPresenza italian
+ a confermata.\nOrario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 
+ / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay
+ \, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-35544c41e77a@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260811T201000
+DTEND;TZID=Europe/Rome:20260811T214000
+SUMMARY:[F] Lancio del martello (maschile) - finale (eventuale) | Olivier
+ i
+DESCRIPTION:Azzurri: Olivieri\nPresenza italiana non ancora certa: dipend
+ e dal turno precedente.\nOrario italiano. A Birmingham un'ora in meno.\n
+ TV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streamin
+ g: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-1719e1ea91ca@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260811T202500
+DTEND;TZID=Europe/Rome:20260811T204500
+SUMMARY:[F] 5000 metri (femminile) - finale | Battocletti\, Del Buono\, M
+ ajori
+DESCRIPTION:Azzurri: Battocletti\, Del Buono\, Majori\nPresenza italiana 
+ confermata.\nOrario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / 
+ Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\,
+  NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:5000 metri tra 15 minuti
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-d41e6274d8a6@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260811T205500
+DTEND;TZID=Europe/Rome:20260811T212000
+SUMMARY:[SF] 100 ostacoli - semifinali (eventuale) | Carmassi\, Carraro\,
+  Polzonetti
+DESCRIPTION:Azzurri: Carmassi\, Carraro\, Polzonetti\nPresenza italiana n
+ on ancora certa: dipende dal turno precedente.\nOrario italiano. A Birmi
+ ngham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\
+ , Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-698555b4939e@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260811T211500
+DTEND;TZID=Europe/Rome:20260811T231500
+SUMMARY:[F] Salto in lungo (maschile) - finale (eventuale) | Furlani\, In
+ zoli
+DESCRIPTION:Azzurri: Furlani\, Inzoli\nPresenza italiana non ancora certa
+ : dipende dal turno precedente.\nOrario italiano. A Birmingham un'ora in
+  meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. 
+ Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-3b0c30d13956@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260811T213000
+DTEND;TZID=Europe/Rome:20260811T215500
+SUMMARY:[SF] 100 metri (maschile) - semifinali (eventuale) | Jacobs\, Ali
+ \, Ceccarelli\, Randazzo
+DESCRIPTION:Azzurri: Jacobs\, Ali\, Ceccarelli\, Randazzo\nPresenza itali
+ ana non ancora certa: dipende dal turno precedente.\nOrario italiano. A 
+ Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky S
+ port\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discov
+ ery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-2a6654b8c04a@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260811T220000
+DTEND;TZID=Europe/Rome:20260811T222500
+SUMMARY:[SF] 400 metri (maschile) - semifinali (eventuale) | Scotti\, Ben
+ ati\, Sito\, Soudassi
+DESCRIPTION:Azzurri: Scotti\, Benati\, Sito\, Soudassi\nPresenza italiana
+  non ancora certa: dipende dal turno precedente.\nOrario italiano. A Bir
+ mingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Spor
+ t\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery
+ +.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-d4725e1aad0b@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260811T223000
+DTEND;TZID=Europe/Rome:20260811T224500
+SUMMARY:[F] 100 ostacoli - finale (eventuale) | Carmassi\, Carraro\, Polz
+ onetti
+DESCRIPTION:Azzurri: Carmassi\, Carraro\, Polzonetti\nPresenza italiana n
+ on ancora certa: dipende dal turno precedente.\nOrario italiano. A Birmi
+ ngham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\
+ , Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-17ee5975c01e@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260811T224500
+DTEND;TZID=Europe/Rome:20260811T230000
+SUMMARY:[F] 100 metri (maschile) - finale (eventuale) | Jacobs\, Ali\, Ce
+ ccarelli\, Randazzo
+DESCRIPTION:Azzurri: Jacobs\, Ali\, Ceccarelli\, Randazzo\nPresenza itali
+ ana non ancora certa: dipende dal turno precedente.\nOrario italiano. A 
+ Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky S
+ port\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discov
+ ery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-f5e4343aa094@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260812T113500
+DTEND;TZID=Europe/Rome:20260812T115500
+SUMMARY:[10] Decathlon - 100 metri | Dester\, Nonino
+DESCRIPTION:Azzurri: Dester\, Nonino\nPresenza italiana confermata.\nOrar
+ io italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in 
+ chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, H
+ BO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-352e488d2e60@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260812T114000
+DTEND;TZID=Europe/Rome:20260812T133000
+SUMMARY:[Q] Lancio del disco (femminile) - qualificazioni | Benedetti\, C
+ onte\, Osakue
+DESCRIPTION:Azzurri: Benedetti\, Conte\, Osakue\nPresenza italiana confer
+ mata.\nOrario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sp
+ ort HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\,
+  Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-565c1a83b2cd@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260812T120500
+DTEND;TZID=Europe/Rome:20260812T124000
+SUMMARY:[B] 400 metri (femminile) - batterie | Bonora\, Mangione
+DESCRIPTION:Azzurri: Bonora\, Mangione\nPresenza italiana confermata.\nOr
+ ario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (i
+ n chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\,
+  HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-8c6638ce57ec@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260812T122000
+DTEND;TZID=Europe/Rome:20260812T141000
+SUMMARY:[10] Decathlon - salto in lungo | Dester\, Nonino
+DESCRIPTION:Azzurri: Dester\, Nonino\nPresenza italiana confermata.\nOrar
+ io italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in 
+ chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, H
+ BO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-2c14af2ed442@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260812T124000
+DTEND;TZID=Europe/Rome:20260812T131500
+SUMMARY:[B] 200 metri (femminile) - batterie | Cambiolo\, Fontana\, Kadda
+ ri
+DESCRIPTION:Azzurri: Cambiolo\, Fontana\, Kaddari\nPresenza italiana conf
+ ermata.\nOrario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai 
+ Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW
+ \, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-aef9ec59de5f@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260812T132000
+DTEND;TZID=Europe/Rome:20260812T134500
+SUMMARY:[SF] 800 metri (maschile) - semifinali (eventuale) | Lazzaro\, Pe
+ rnici\, Tecuceanu
+DESCRIPTION:Azzurri: Lazzaro\, Pernici\, Tecuceanu\nPresenza italiana non
+  ancora certa: dipende dal turno precedente.\nOrario italiano. A Birming
+ ham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, 
+ Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-24eeae444cde@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260812T134000
+DTEND;TZID=Europe/Rome:20260812T144500
+SUMMARY:[10] Decathlon - getto del peso | Dester\, Nonino
+DESCRIPTION:Azzurri: Dester\, Nonino\nPresenza italiana confermata.\nOrar
+ io italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in 
+ chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, H
+ BO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-b35511f6dad9@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260812T135500
+DTEND;TZID=Europe/Rome:20260812T142000
+SUMMARY:[SF] 400 ostacoli (maschile) - semifinali (eventuale) | Sibilio\,
+  Bertoncelli\, Sommacal
+DESCRIPTION:Azzurri: Sibilio\, Bertoncelli\, Sommacal\nPresenza italiana 
+ non ancora certa: dipende dal turno precedente.\nOrario italiano. A Birm
+ ingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport
+ \, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+
+ .
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-e15edff39483@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260812T201000
+DTEND;TZID=Europe/Rome:20260812T220000
+SUMMARY:[10] Decathlon - salto in alto | Dester Nonino
+DESCRIPTION:Azzurri: Dester Nonino\nPresenza italiana confermata.\nOrario
+  italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in ch
+ iaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO
+  Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-27e398a9f58c@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260812T205500
+DTEND;TZID=Europe/Rome:20260812T212000
+SUMMARY:[SF] 110 ostacoli - semifinali (eventuale) | Mulas
+DESCRIPTION:Azzurri: Mulas\nPresenza italiana non ancora certa: dipende d
+ al turno precedente.\nOrario italiano. A Birmingham un'ora in meno.\nTV:
+  Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: 
+ RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-f4fb87722e12@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260812T211500
+DTEND;TZID=Europe/Rome:20260812T224500
+SUMMARY:[F] Lancio del martello (femminile) - finale (eventuale) | Fantin
+ i\, Mori
+DESCRIPTION:Azzurri: Fantini\, Mori\nPresenza italiana non ancora certa: 
+ dipende dal turno precedente.\nOrario italiano. A Birmingham un'ora in m
+ eno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. St
+ reaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-9884db551178@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260812T212000
+DTEND;TZID=Europe/Rome:20260812T214500
+SUMMARY:[SF] 200 metri (femminile) - semifinali (eventuale) | Cambiolo\, 
+ Fontana\, Kaddari
+DESCRIPTION:Azzurri: Cambiolo\, Fontana\, Kaddari\nPresenza italiana non 
+ ancora certa: dipende dal turno precedente.\nOrario italiano. A Birmingh
+ am un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, E
+ urosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-20ee398f552b@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260812T214000
+DTEND;TZID=Europe/Rome:20260812T233000
+SUMMARY:[Q] Salto triplo (maschile) - qualificazioni | Biasutti\, Dallava
+ lle\, Diaz
+DESCRIPTION:Azzurri: Biasutti\, Dallavalle\, Diaz\nPresenza italiana conf
+ ermata.\nOrario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai 
+ Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW
+ \, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-502676bd8723@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260812T215000
+DTEND;TZID=Europe/Rome:20260812T220500
+SUMMARY:[F] 400 metri (maschile) - finale (eventuale) | Benati\, Scotti\,
+  Sito\, Soudassi
+DESCRIPTION:Azzurri: Benati\, Scotti\, Sito\, Soudassi\nPresenza italiana
+  non ancora certa: dipende dal turno precedente.\nOrario italiano. A Bir
+ mingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Spor
+ t\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery
+ +.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-bedbcda17b64@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260812T220500
+DTEND;TZID=Europe/Rome:20260812T222000
+SUMMARY:[F] 400 ostacoli - finale (eventuale) | Folorunso\, Muraro\, Sart
+ ori
+DESCRIPTION:Azzurri: Folorunso\, Muraro\, Sartori\nPresenza italiana non 
+ ancora certa: dipende dal turno precedente.\nOrario italiano. A Birmingh
+ am un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, E
+ urosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-240daab67b56@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260812T222200
+DTEND;TZID=Europe/Rome:20260812T224200
+SUMMARY:[10] Decathlon - 400 metri | Dester\, Nonino
+DESCRIPTION:Azzurri: Dester\, Nonino\nPresenza italiana confermata.\nOrar
+ io italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in 
+ chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, H
+ BO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-255403f30817@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260812T224700
+DTEND;TZID=Europe/Rome:20260812T230200
+SUMMARY:[F] 110 ostacoli - finale (eventuale) | Mulas
+DESCRIPTION:Azzurri: Mulas\nPresenza italiana non ancora certa: dipende d
+ al turno precedente.\nOrario italiano. A Birmingham un'ora in meno.\nTV:
+  Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: 
+ RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-f478ec0e0270@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260813T113300
+DTEND;TZID=Europe/Rome:20260813T115300
+SUMMARY:[10] Decathlon - 110 ostacoli | Dester\, Nonino
+DESCRIPTION:Azzurri: Dester\, Nonino\nPresenza italiana confermata.\nOrar
+ io italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in 
+ chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, H
+ BO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-6b26ce7a308d@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260813T115500
+DTEND;TZID=Europe/Rome:20260813T134500
+SUMMARY:[Q] Salto in alto (femminile) - qualificazioni | Morara\, Pieroni
+ \, Tavernini
+DESCRIPTION:Azzurri: Morara\, Pieroni\, Tavernini\nPresenza italiana conf
+ ermata.\nOrario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai 
+ Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW
+ \, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-520201c061fe@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260813T120500
+DTEND;TZID=Europe/Rome:20260813T124000
+SUMMARY:[B] 200 metri - batterie | Dezza\, Longobardi
+DESCRIPTION:Azzurri: Dezza\, Longobardi\nPresenza italiana confermata.\nO
+ rario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (
+ in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\
+ , HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-cd95a337c381@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260813T122000
+DTEND;TZID=Europe/Rome:20260813T132500
+SUMMARY:[10] Decathlon - lancio del disco | Dester\, Nonino
+DESCRIPTION:Azzurri: Dester\, Nonino\nPresenza italiana confermata.\nOrar
+ io italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in 
+ chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, H
+ BO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-633f18d4f655@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260813T123000
+DTEND;TZID=Europe/Rome:20260813T130500
+SUMMARY:[B] 3000 siepi (maschile) - batterie | Bouih\, A. Zoghlami\, O. Z
+ oghlami
+DESCRIPTION:Azzurri: Bouih\, A. Zoghlami\, O. Zoghlami\nPresenza italiana
+  confermata.\nOrario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 /
+  Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\
+ , NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-6b0df44e070f@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260813T131000
+DTEND;TZID=Europe/Rome:20260813T133500
+SUMMARY:[SF] 800 metri (femminile) - semifinali (eventuale) | Coiro
+DESCRIPTION:Azzurri: Coiro\nPresenza italiana non ancora certa: dipende d
+ al turno precedente.\nOrario italiano. A Birmingham un'ora in meno.\nTV:
+  Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: 
+ RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-e0464863cba8@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260813T134500
+DTEND;TZID=Europe/Rome:20260813T141000
+SUMMARY:[SF] 400 metri (femminile) - semifinali (eventuale) | Polinari\, 
+ Bonora\, Mangione
+DESCRIPTION:Azzurri: Polinari\, Bonora\, Mangione\nPresenza italiana non 
+ ancora certa: dipende dal turno precedente.\nOrario italiano. A Birmingh
+ am un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, E
+ urosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-97eaca547af6@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260813T140000
+DTEND;TZID=Europe/Rome:20260813T153000
+SUMMARY:[10] Decathlon - salto con l’asta | Dester\, Nonino
+DESCRIPTION:Azzurri: Dester\, Nonino\nPresenza italiana confermata.\nOrar
+ io italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in 
+ chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, H
+ BO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-a6a96c809b50@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260813T143500
+DTEND;TZID=Europe/Rome:20260813T162500
+SUMMARY:[Q] Tiro del giavellotto (maschile) - qualificazioni | Fina\, Fra
+ ttini
+DESCRIPTION:Azzurri: Fina\, Frattini\nPresenza italiana confermata.\nOrar
+ io italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in 
+ chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, H
+ BO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-4480aa08f977@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260813T193500
+DTEND;TZID=Europe/Rome:20260813T204000
+SUMMARY:[10] Decathlon - tiro del giavellotto | Dester\, Nonino
+DESCRIPTION:Azzurri: Dester\, Nonino\nPresenza italiana confermata.\nOrar
+ io italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in 
+ chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, H
+ BO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-4aa158532242@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260813T204000
+DTEND;TZID=Europe/Rome:20260813T224000
+SUMMARY:[F] Salto triplo (femminile) - finale (eventuale) | Derkach\, Sar
+ aceni
+DESCRIPTION:Azzurri: Derkach\, Saraceni\nPresenza italiana non ancora cer
+ ta: dipende dal turno precedente.\nOrario italiano. A Birmingham un'ora 
+ in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1
+ . Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-86898542473e@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260813T205000
+DTEND;TZID=Europe/Rome:20260813T225000
+SUMMARY:[F] Salto con l’asta (femminile) - finale (eventuale) | Malavis
+ i\, Molinarolo\, Scardanzan
+DESCRIPTION:Azzurri: Malavisi\, Molinarolo\, Scardanzan\nPresenza italian
+ a non ancora certa: dipende dal turno precedente.\nOrario italiano. A Bi
+ rmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Spo
+ rt\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discover
+ y+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-ac898c8cdaef@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260813T210500
+DTEND;TZID=Europe/Rome:20260813T213000
+SUMMARY:[SF] 200 metri (maschile) - semifinali (eventuale) | Desalu\, Dez
+ za\, Longobardi
+DESCRIPTION:Azzurri: Desalu\, Dezza\, Longobardi\nPresenza italiana non a
+ ncora certa: dipende dal turno precedente.\nOrario italiano. A Birmingha
+ m un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eu
+ rosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-aba11e850bd2@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260813T213000
+DTEND;TZID=Europe/Rome:20260813T214500
+SUMMARY:[F] 3000 siepi (femminile) - finale (eventuale) | Colli
+DESCRIPTION:Azzurri: Colli\nPresenza italiana non ancora certa: dipende d
+ al turno precedente.\nOrario italiano. A Birmingham un'ora in meno.\nTV:
+  Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: 
+ RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-8f806de6324c@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260813T214300
+DTEND;TZID=Europe/Rome:20260813T231300
+SUMMARY:[F] Lancio del disco (maschile) - finale (eventuale) | Mannucci\,
+  Musci\, Saccomano
+DESCRIPTION:Azzurri: Mannucci\, Musci\, Saccomano\nPresenza italiana non 
+ ancora certa: dipende dal turno precedente.\nOrario italiano. A Birmingh
+ am un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, E
+ urosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-ce2df28a578d@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260813T221000
+DTEND;TZID=Europe/Rome:20260813T223000
+SUMMARY:[10] Decathlon - 1500 metri | Dester\, Nonino
+DESCRIPTION:Azzurri: Dester\, Nonino\nPresenza italiana confermata.\nOrar
+ io italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in 
+ chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, H
+ BO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-0ee14d25cc00@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260813T222800
+DTEND;TZID=Europe/Rome:20260813T224300
+SUMMARY:[F] 800 metri (maschile) - finale (eventuale) | Lazzaro\, Pernici
+ \, Tecuceanu
+DESCRIPTION:Azzurri: Lazzaro\, Pernici\, Tecuceanu\nPresenza italiana non
+  ancora certa: dipende dal turno precedente.\nOrario italiano. A Birming
+ ham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, 
+ Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-d8abe0f06b32@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260813T224800
+DTEND;TZID=Europe/Rome:20260813T230300
+SUMMARY:[F] 200 metri (femminile) - finale (eventuale) | Cambiolo\, Fonta
+ na\, Kaddari
+DESCRIPTION:Azzurri: Cambiolo\, Fontana\, Kaddari\nPresenza italiana non 
+ ancora certa: dipende dal turno precedente.\nOrario italiano. A Birmingh
+ am un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, E
+ urosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-6fe31e038d50@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260814T113500
+DTEND;TZID=Europe/Rome:20260814T115500
+SUMMARY:[10] Eptathlon - 100 ostacoli | Gerevini
+DESCRIPTION:Azzurri: Gerevini\nPresenza italiana confermata.\nOrario ital
+ iano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)
+ \, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\
+ , Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-72e3dafcfeb9@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260814T114000
+DTEND;TZID=Europe/Rome:20260814T133000
+SUMMARY:[Q] Tiro del giavellotto (femminile) - qualificazioni | Padovan
+DESCRIPTION:Azzurri: Padovan\nPresenza italiana confermata.\nOrario itali
+ ano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\
+ , Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\,
+  Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-1b17947f0eaa@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260814T115000
+DTEND;TZID=Europe/Rome:20260814T134000
+SUMMARY:[Q] Salto con l’asta (maschile) - qualificazioni | Oliveri
+DESCRIPTION:Azzurri: Oliveri\nPresenza italiana confermata.\nOrario itali
+ ano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\
+ , Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\,
+  Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-c63df6f0fbd7@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260814T120500
+DTEND;TZID=Europe/Rome:20260814T124000
+SUMMARY:[B] 4×400 (maschile) - batterie | Italia
+DESCRIPTION:Azzurri: Italia\nPresenza italiana confermata.\nOrario italia
+ no. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\,
+  Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, 
+ Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-bc2978b40b72@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260814T122500
+DTEND;TZID=Europe/Rome:20260814T141500
+SUMMARY:[10] Eptathlon - salto in alto | Gerevini
+DESCRIPTION:Azzurri: Gerevini\nPresenza italiana confermata.\nOrario ital
+ iano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)
+ \, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\
+ , Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-b9ec59580db4@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260814T123500
+DTEND;TZID=Europe/Rome:20260814T131000
+SUMMARY:[B] 4×400 (femminile) - batterie | Italia
+DESCRIPTION:Azzurri: Italia\nPresenza italiana confermata.\nOrario italia
+ no. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\,
+  Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, 
+ Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-b1c0e5b6777d@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260814T130500
+DTEND;TZID=Europe/Rome:20260814T134000
+SUMMARY:[B] 1500 metri (femminile) - batterie | Arese\, Bussotti
+DESCRIPTION:Azzurri: Arese\, Bussotti\nPresenza italiana confermata.\nOra
+ rio italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in
+  chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, 
+ HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-495f3f79fa44@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260814T203500
+DTEND;TZID=Europe/Rome:20260814T214000
+SUMMARY:[10] Eptathlon - getto del peso | Gerevini
+DESCRIPTION:Azzurri: Gerevini\nPresenza italiana confermata.\nOrario ital
+ iano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)
+ \, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\
+ , Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-459d0cfe1fdf@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260814T204500
+DTEND;TZID=Europe/Rome:20260814T212000
+SUMMARY:[F] 10.000 metri (femminile) - finale | Battocletti\, Del Buono\,
+  Palmero
+DESCRIPTION:Azzurri: Battocletti\, Del Buono\, Palmero\nPresenza italiana
+  confermata.\nOrario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 /
+  Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\
+ , NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10.000 metri tra 15 minuti
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-b806c3a3cdf2@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260814T210000
+DTEND;TZID=Europe/Rome:20260814T230000
+SUMMARY:[F] Salto in alto (maschile) - finale (eventuale) | Falocchi\, Si
+ oli\, Stronati\, Tamberi
+DESCRIPTION:Azzurri: Falocchi\, Sioli\, Stronati\, Tamberi\nPresenza ital
+ iana non ancora certa: dipende dal turno precedente.\nOrario italiano. A
+  Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky 
+ Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Disco
+ very+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-73176cd1bf6a@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260814T213000
+DTEND;TZID=Europe/Rome:20260814T230000
+SUMMARY:[F] Lancio del disco (femminile) - finale (eventuale) | Benedetti
+ \, Conti\, Osakue
+DESCRIPTION:Azzurri: Benedetti\, Conti\, Osakue\nPresenza italiana non an
+ cora certa: dipende dal turno precedente.\nOrario italiano. A Birmingham
+  un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eur
+ osport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-f7f6a715400d@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260814T214000
+DTEND;TZID=Europe/Rome:20260814T215500
+SUMMARY:[F] 400 ostacoli (maschile) - finale (eventuale) | Bertoncelli\, 
+ Sibilio\, Sommacal
+DESCRIPTION:Azzurri: Bertoncelli\, Sibilio\, Sommacal\nPresenza italiana 
+ non ancora certa: dipende dal turno precedente.\nOrario italiano. A Birm
+ ingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport
+ \, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+
+ .
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-f1210ed4f93b@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260814T215500
+DTEND;TZID=Europe/Rome:20260814T221500
+SUMMARY:[10] Eptathlon - 200 metri | Gerevini
+DESCRIPTION:Azzurri: Gerevini\nPresenza italiana confermata.\nOrario ital
+ iano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)
+ \, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\
+ , Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-07139a997392@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260814T222500
+DTEND;TZID=Europe/Rome:20260814T224000
+SUMMARY:[F] 200 metri (maschile) - finale (eventuale) | Desalu\, Dezza\, 
+ Longobardi
+DESCRIPTION:Azzurri: Desalu\, Dezza\, Longobardi\nPresenza italiana non a
+ ncora certa: dipende dal turno precedente.\nOrario italiano. A Birmingha
+ m un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eu
+ rosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-cdb13cb5ea55@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260814T224500
+DTEND;TZID=Europe/Rome:20260814T230000
+SUMMARY:[F] 800 metri (femminile) - finale (eventuale) | Coiro
+DESCRIPTION:Azzurri: Coiro\nPresenza italiana non ancora certa: dipende d
+ al turno precedente.\nOrario italiano. A Birmingham un'ora in meno.\nTV:
+  Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: 
+ RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-4ed26af2aa3a@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260815T083000
+DTEND;TZID=Europe/Rome:20260815T101000
+SUMMARY:[F] Mezza maratona di marcia (maschile) - finale | Cosi\, Fortuna
+ to\, Picchiottino
+DESCRIPTION:Azzurri: Cosi\, Fortunato\, Picchiottino\nPresenza italiana c
+ onfermata.\nOrario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / R
+ ai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, 
+ NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mezza maratona di marcia tra 15 minuti
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-9a2babe1d759@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260815T083500
+DTEND;TZID=Europe/Rome:20260815T101500
+SUMMARY:[F] Mezza maratona di marcia (femminile) - finale | Cantò\, Colo
+ mbi\, Mihai\, Palmisano
+DESCRIPTION:Azzurri: Cantò\, Colombi\, Mihai\, Palmisano\nPresenza itali
+ ana confermata.\nOrario italiano. A Birmingham un'ora in meno.\nTV: Rai 
+ 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPl
+ ay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mezza maratona di marcia tra 15 minuti
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-6fd4f78fd74e@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260815T084500
+DTEND;TZID=Europe/Rome:20260815T122500
+SUMMARY:[F] Maratona di marcia (maschile) - finale | Agrusti\, Orsoni\, S
+ tano
+DESCRIPTION:Azzurri: Agrusti\, Orsoni\, Stano\nPresenza italiana conferma
+ ta.\nOrario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Spor
+ t HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, S
+ ky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Maratona di marcia tra 15 minuti
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-9ef0de05acb3@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260815T085000
+DTEND;TZID=Europe/Rome:20260815T123000
+SUMMARY:[F] Maratona di marcia (femminile) - finale | Curiazzi\, Fiorini\
+ , Giorgi
+DESCRIPTION:Azzurri: Curiazzi\, Fiorini\, Giorgi\nPresenza italiana confe
+ rmata.\nOrario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai S
+ port HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\
+ , Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Maratona di marcia tra 15 minuti
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-4807976d838c@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260815T112500
+DTEND;TZID=Europe/Rome:20260815T131500
+SUMMARY:[10] Eptathlon - salto in lungo | Gerevini
+DESCRIPTION:Azzurri: Gerevini\nPresenza italiana confermata.\nOrario ital
+ iano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)
+ \, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\
+ , Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-1f6967eaa1d6@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260815T125000
+DTEND;TZID=Europe/Rome:20260815T144000
+SUMMARY:[Q] Salto in lungo (femminile) - qualificazioni | Iapichino
+DESCRIPTION:Azzurri: Iapichino\nPresenza italiana confermata.\nOrario ita
+ liano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro
+ )\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max
+ \, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-9c7453411186@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260815T125500
+DTEND;TZID=Europe/Rome:20260815T140000
+SUMMARY:[10] Eptathlon - tiro del giavellotto | Gerevini
+DESCRIPTION:Azzurri: Gerevini\nPresenza italiana confermata.\nOrario ital
+ iano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)
+ \, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\
+ , Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-b1c0e5b6777d@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260815T133500
+DTEND;TZID=Europe/Rome:20260815T141000
+SUMMARY:[B] 1500 metri (femminile) - batterie | Cavalli\, Sabbatini
+DESCRIPTION:Azzurri: Cavalli\, Sabbatini\nPresenza italiana confermata.\n
+ Orario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD 
+ (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go
+ \, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-f728afa31636@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260815T140000
+DTEND;TZID=Europe/Rome:20260815T143500
+SUMMARY:[B] 4×100 (femminile) - batterie | Italia
+DESCRIPTION:Azzurri: Italia\nPresenza italiana confermata.\nOrario italia
+ no. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\,
+  Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, 
+ Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-cc0f00b784f7@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260815T141400
+DTEND;TZID=Europe/Rome:20260815T144900
+SUMMARY:[B] 4×100 (maschile) - batterie | Italia
+DESCRIPTION:Azzurri: Italia\nPresenza italiana confermata.\nOrario italia
+ no. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\,
+  Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, 
+ Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-8f860d70da7c@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260815T204500
+DTEND;TZID=Europe/Rome:20260815T210500
+SUMMARY:[10] Eptathlon - 800 metri | Gerevini
+DESCRIPTION:Azzurri: Gerevini\nPresenza italiana confermata.\nOrario ital
+ iano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)
+ \, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\
+ , Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Turni
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-608f6bd7cecf@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260815T210000
+DTEND;TZID=Europe/Rome:20260815T223000
+SUMMARY:[F] Tiro del giavellotto (maschile) - finale (eventuale) | Fina\,
+  Frattini
+DESCRIPTION:Azzurri: Fina\, Frattini\nPresenza italiana non ancora certa:
+  dipende dal turno precedente.\nOrario italiano. A Birmingham un'ora in 
+ meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. S
+ treaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-9ba9af7ff790@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260815T210400
+DTEND;TZID=Europe/Rome:20260815T230400
+SUMMARY:[F] Salto in alto (femminile) - finale (eventuale) | Morara\, Pie
+ roni\, Tavernini
+DESCRIPTION:Azzurri: Morara\, Pieroni\, Tavernini\nPresenza italiana non 
+ ancora certa: dipende dal turno precedente.\nOrario italiano. A Birmingh
+ am un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, E
+ urosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-0c7273431934@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260815T210900
+DTEND;TZID=Europe/Rome:20260815T212400
+SUMMARY:[F] 400 metri (femminile) - finale (eventuale) | Bonora\, Mangion
+ e\, Polinari
+DESCRIPTION:Azzurri: Bonora\, Mangione\, Polinari\nPresenza italiana non 
+ ancora certa: dipende dal turno precedente.\nOrario italiano. A Birmingh
+ am un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, E
+ urosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-3ac84994ddb6@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260815T211600
+DTEND;TZID=Europe/Rome:20260815T231600
+SUMMARY:[F] Salto triplo (maschile) - finale (eventuale) | Biasutti\, Dia
+ z\, Dallavalle
+DESCRIPTION:Azzurri: Biasutti\, Diaz\, Dallavalle\nPresenza italiana non 
+ ancora certa: dipende dal turno precedente.\nOrario italiano. A Birmingh
+ am un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, E
+ urosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-4894074039b5@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260815T212500
+DTEND;TZID=Europe/Rome:20260815T220000
+SUMMARY:[F] 10.000 metri (maschile) - finale | Crippa\, Guerra\, Selvarol
+ o
+DESCRIPTION:Azzurri: Crippa\, Guerra\, Selvarolo\nPresenza italiana confe
+ rmata.\nOrario italiano. A Birmingham un'ora in meno.\nTV: Rai 2 / Rai S
+ port HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPlay\, NOW\
+ , Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10.000 metri tra 15 minuti
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-e429e407f860@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260815T220700
+DTEND;TZID=Europe/Rome:20260815T222200
+SUMMARY:[F] 1500 metri (maschile) - finale (eventuale) | Arese\, Bussotti
+DESCRIPTION:Azzurri: Arese\, Bussotti\nPresenza italiana non ancora certa
+ : dipende dal turno precedente.\nOrario italiano. A Birmingham un'ora in
+  meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. 
+ Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-ab31f79de056@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260815T223000
+DTEND;TZID=Europe/Rome:20260815T224500
+SUMMARY:[F] 4×100 (maschile) - finale (eventuale) | Italia
+DESCRIPTION:Azzurri: Italia\nPresenza italiana non ancora certa: dipende 
+ dal turno precedente.\nOrario italiano. A Birmingham un'ora in meno.\nTV
+ : Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming:
+  RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-0ce58896f35e@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260815T224500
+DTEND;TZID=Europe/Rome:20260815T230000
+SUMMARY:[F] 4×100 (femminile) - finale (eventuale) | Italia
+DESCRIPTION:Azzurri: Italia\nPresenza italiana non ancora certa: dipende 
+ dal turno precedente.\nOrario italiano. A Birmingham un'ora in meno.\nTV
+ : Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming:
+  RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-e33b93fc344e@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260816T083000
+DTEND;TZID=Europe/Rome:20260816T111000
+SUMMARY:[F] Maratona (femminile) - finale | Epis\, Lonedo\, Tuccitto\, Ya
+ remchuk
+DESCRIPTION:Azzurri: Epis\, Lonedo\, Tuccitto\, Yaremchuk\nPresenza itali
+ ana confermata.\nOrario italiano. A Birmingham un'ora in meno.\nTV: Rai 
+ 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming: RaiPl
+ ay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Maratona tra 15 minuti
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-b4270815a194@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260816T091000
+DTEND;TZID=Europe/Rome:20260816T115000
+SUMMARY:[F] Maratona (maschile) - finale | Chevrier\, Jaafari\, Meucci\, 
+ Ouhda\, Riva
+DESCRIPTION:Azzurri: Chevrier\, Jaafari\, Meucci\, Ouhda\, Riva\nPresenza
+  italiana confermata.\nOrario italiano. A Birmingham un'ora in meno.\nTV
+ : Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming:
+  RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Maratona tra 15 minuti
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-47dfec10a5ec@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260816T203500
+DTEND;TZID=Europe/Rome:20260816T220500
+SUMMARY:[F] Tiro del giavellotto (femminile) - finale (eventuale) | Padov
+ an
+DESCRIPTION:Azzurri: Padovan\nPresenza italiana non ancora certa: dipende
+  dal turno precedente.\nOrario italiano. A Birmingham un'ora in meno.\nT
+ V: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming
+ : RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-0a613fdf2d84@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260816T204000
+DTEND;TZID=Europe/Rome:20260816T224000
+SUMMARY:[F] Salto con l’asta (maschile) - finale (eventuale) | Olivieri
+DESCRIPTION:Azzurri: Olivieri\nPresenza italiana non ancora certa: dipend
+ e dal turno precedente.\nOrario italiano. A Birmingham un'ora in meno.\n
+ TV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streamin
+ g: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-546f8c87ed59@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260816T212000
+DTEND;TZID=Europe/Rome:20260816T232000
+SUMMARY:[F] Salto in lungo (femminile) - finale (eventuale) | Iapichino
+DESCRIPTION:Azzurri: Iapichino\nPresenza italiana non ancora certa: dipen
+ de dal turno precedente.\nOrario italiano. A Birmingham un'ora in meno.\
+ nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streami
+ ng: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-e77f3e26caa3@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260816T213500
+DTEND;TZID=Europe/Rome:20260816T215000
+SUMMARY:[F] 4×100 (mista) - finale (eventuale) | Italia
+DESCRIPTION:Azzurri: Italia\nPresenza italiana non ancora certa: dipende 
+ dal turno precedente.\nOrario italiano. A Birmingham un'ora in meno.\nTV
+ : Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming:
+  RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-f8393943f77c@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260816T215000
+DTEND;TZID=Europe/Rome:20260816T220500
+SUMMARY:[F] 3000 siepi (maschile) - finale (eventuale) | Bouih\, A. Zoghl
+ ami\, O. Zoghlami
+DESCRIPTION:Azzurri: Bouih\, A. Zoghlami\, O. Zoghlami\nPresenza italiana
+  non ancora certa: dipende dal turno precedente.\nOrario italiano. A Bir
+ mingham un'ora in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Spor
+ t\, Eurosport 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery
+ +.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-6c6be8d02255@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260816T221000
+DTEND;TZID=Europe/Rome:20260816T222500
+SUMMARY:[F] 1500 metri (femminile) - finale (eventuale) | Cavalli\, Sabba
+ tini
+DESCRIPTION:Azzurri: Cavalli\, Sabbatini\nPresenza italiana non ancora ce
+ rta: dipende dal turno precedente.\nOrario italiano. A Birmingham un'ora
+  in meno.\nTV: Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 
+ 1. Streaming: RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-d315f6549731@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260816T223000
+DTEND;TZID=Europe/Rome:20260816T224500
+SUMMARY:[F] 4×400 (femminile) - finale (eventuale) | Italia
+DESCRIPTION:Azzurri: Italia\nPresenza italiana non ancora certa: dipende 
+ dal turno precedente.\nOrario italiano. A Birmingham un'ora in meno.\nTV
+ : Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming:
+  RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea26-ec6a06f9a97a@paolo.local
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=Europe/Rome:20260816T224500
+DTEND;TZID=Europe/Rome:20260816T230000
+SUMMARY:[F] 4×400 (maschile) - finale (eventuale) | Italia
+DESCRIPTION:Azzurri: Italia\nPresenza italiana non ancora certa: dipende 
+ dal turno precedente.\nOrario italiano. A Birmingham un'ora in meno.\nTV
+ : Rai 2 / Rai Sport HD (in chiaro)\, Sky Sport\, Eurosport 1. Streaming:
+  RaiPlay\, NOW\, Sky Go\, HBO Max\, Discovery+.
+LOCATION:Alexander Stadium\, Birmingham (GBR)
+CATEGORIES:Finali
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

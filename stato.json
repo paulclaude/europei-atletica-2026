@@ -1,0 +1,1493 @@
+[
+ {
+  "k": "gettodelpeso|femminile|qualificazioni",
+  "giorno": 10,
+  "ora": "11:35",
+  "gara": "Getto del peso",
+  "genere": "femminile",
+  "fase": "qualificazioni",
+  "atleti": [
+   "Musci",
+   "Verteramo"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "lanciodelmartello|maschile|qualificazioni",
+  "giorno": 10,
+  "ora": "11:40",
+  "gara": "Lancio del martello",
+  "genere": "maschile",
+  "fase": "qualificazioni",
+  "atleti": [
+   "Olivieri"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "800metri|maschile|batterie",
+  "giorno": 10,
+  "ora": "11:45",
+  "gara": "800 metri",
+  "genere": "maschile",
+  "fase": "batterie",
+  "atleti": [
+   "Lazzaro",
+   "Pernici",
+   "Tecuceanu"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "100metri|femminile|batterie",
+  "giorno": 10,
+  "ora": "12:25",
+  "gara": "100 metri",
+  "genere": "femminile",
+  "fase": "batterie",
+  "atleti": [
+   "Hooper"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "saltoinlungo|maschile|qualificazioni",
+  "giorno": 10,
+  "ora": "12:30",
+  "gara": "Salto in lungo",
+  "genere": "maschile",
+  "fase": "qualificazioni",
+  "atleti": [
+   "Furlani",
+   "Inzoli"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "400metri|maschile|batterie",
+  "giorno": 10,
+  "ora": "12:55",
+  "gara": "400 metri",
+  "genere": "maschile",
+  "fase": "batterie",
+  "atleti": [
+   "Benati",
+   "Sito",
+   "Soudassi"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "400ostacoli|femminile|batterie",
+  "giorno": 10,
+  "ora": "13:35",
+  "gara": "400 ostacoli",
+  "genere": "femminile",
+  "fase": "batterie",
+  "atleti": [
+   "Sartori"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "gettodelpeso|maschile|qualificazioni",
+  "giorno": 10,
+  "ora": "13:40",
+  "gara": "Getto del peso",
+  "genere": "maschile",
+  "fase": "qualificazioni",
+  "atleti": [
+   "Fabbri",
+   "Ferrara",
+   "Ponzio"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "gettodelpeso|femminile|finale",
+  "giorno": 10,
+  "ora": "20:03",
+  "gara": "Getto del peso",
+  "genere": "femminile",
+  "fase": "finale",
+  "atleti": [
+   "Musci",
+   "Verteramo"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "lanciodelmartello|femminile|qualificazioni",
+  "giorno": 10,
+  "ora": "20:10",
+  "gara": "Lancio del martello",
+  "genere": "femminile",
+  "fase": "qualificazioni",
+  "atleti": [
+   "Fantini",
+   "Mori"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "100ostacoli||batterie",
+  "giorno": 10,
+  "ora": "20:35",
+  "gara": "100 ostacoli",
+  "genere": "",
+  "fase": "batterie",
+  "atleti": [
+   "Carmassi",
+   "Carraro",
+   "Polzonetti"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "saltotriplo|femminile|qualificazioni",
+  "giorno": 10,
+  "ora": "20:55",
+  "gara": "Salto triplo",
+  "genere": "femminile",
+  "fase": "qualificazioni",
+  "atleti": [
+   "Derkach",
+   "Saraceni"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "100metri|femminile|semifinali",
+  "giorno": 10,
+  "ora": "21:10",
+  "gara": "100 metri",
+  "genere": "femminile",
+  "fase": "semifinali",
+  "atleti": [
+   "Dosso",
+   "Hooper"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "gettodelpeso|maschile|finale",
+  "giorno": 10,
+  "ora": "21:30",
+  "gara": "Getto del peso",
+  "genere": "maschile",
+  "fase": "finale",
+  "atleti": [
+   "Fabbri",
+   "Ponzio",
+   "Weir"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "5000metri|maschile|finale",
+  "giorno": 10,
+  "ora": "21:40",
+  "gara": "5000 metri",
+  "genere": "maschile",
+  "fase": "finale",
+  "atleti": [
+   "Guerra",
+   "Maggi",
+   "Parolini"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "3000siepi|femminile|batterie",
+  "giorno": 10,
+  "ora": "22:00",
+  "gara": "3000 siepi",
+  "genere": "femminile",
+  "fase": "batterie",
+  "atleti": [
+   "Colli"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "4400|mista|finale",
+  "giorno": 10,
+  "ora": "22:37",
+  "gara": "4×400",
+  "genere": "mista",
+  "fase": "finale",
+  "atleti": [
+   "Italia"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "100metri|femminile|finale",
+  "giorno": 10,
+  "ora": "22:50",
+  "gara": "100 metri",
+  "genere": "femminile",
+  "fase": "finale",
+  "atleti": [
+   "Dosso",
+   "Hooper"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "saltoinalto|maschile|qualificazioni",
+  "giorno": 11,
+  "ora": "11:33",
+  "gara": "Salto in alto",
+  "genere": "maschile",
+  "fase": "qualificazioni",
+  "atleti": [
+   "Falocchi",
+   "Sioli",
+   "Stronati",
+   "Tamberi"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "lanciodeldisco|maschile|qualificazioni",
+  "giorno": 11,
+  "ora": "11:35",
+  "gara": "Lancio del disco",
+  "genere": "maschile",
+  "fase": "qualificazioni",
+  "atleti": [
+   "Mannucci",
+   "Musci",
+   "Saccomano"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "400ostacoli|femminile|semifinali",
+  "giorno": 11,
+  "ora": "11:45",
+  "gara": "400 ostacoli",
+  "genere": "femminile",
+  "fase": "semifinali",
+  "atleti": [
+   "Folorunso",
+   "Muraro",
+   "Sartori"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "100metri|maschile|batterie",
+  "giorno": 11,
+  "ora": "12:15",
+  "gara": "100 metri",
+  "genere": "maschile",
+  "fase": "batterie",
+  "atleti": [
+   "Ceccarelli",
+   "Randazzo"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "110ostacoli||batterie",
+  "giorno": 11,
+  "ora": "12:40",
+  "gara": "110 ostacoli",
+  "genere": "",
+  "fase": "batterie",
+  "atleti": [
+   "Mulas"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "800metri|femminile|batterie",
+  "giorno": 11,
+  "ora": "13:05",
+  "gara": "800 metri",
+  "genere": "femminile",
+  "fase": "batterie",
+  "atleti": [
+   "Coiro"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "400ostacoli|maschile|batterie",
+  "giorno": 11,
+  "ora": "13:40",
+  "gara": "400 ostacoli",
+  "genere": "maschile",
+  "fase": "batterie",
+  "atleti": [
+   "Bertoncelli",
+   "Sommacal"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "saltoconlasta|femminile|qualificazioni",
+  "giorno": 11,
+  "ora": "20:05",
+  "gara": "Salto con l’asta",
+  "genere": "femminile",
+  "fase": "qualificazioni",
+  "atleti": [
+   "Malavisi",
+   "Molinarolo",
+   "Scardanzan"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "lanciodelmartello|maschile|finale",
+  "giorno": 11,
+  "ora": "20:10",
+  "gara": "Lancio del martello",
+  "genere": "maschile",
+  "fase": "finale",
+  "atleti": [
+   "Olivieri"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "5000metri|femminile|finale",
+  "giorno": 11,
+  "ora": "20:25",
+  "gara": "5000 metri",
+  "genere": "femminile",
+  "fase": "finale",
+  "atleti": [
+   "Battocletti",
+   "Del Buono",
+   "Majori"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "100ostacoli||semifinali",
+  "giorno": 11,
+  "ora": "20:55",
+  "gara": "100 ostacoli",
+  "genere": "",
+  "fase": "semifinali",
+  "atleti": [
+   "Carmassi",
+   "Carraro",
+   "Polzonetti"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "saltoinlungo|maschile|finale",
+  "giorno": 11,
+  "ora": "21:15",
+  "gara": "Salto in lungo",
+  "genere": "maschile",
+  "fase": "finale",
+  "atleti": [
+   "Furlani",
+   "Inzoli"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "100metri|maschile|semifinali",
+  "giorno": 11,
+  "ora": "21:30",
+  "gara": "100 metri",
+  "genere": "maschile",
+  "fase": "semifinali",
+  "atleti": [
+   "Jacobs",
+   "Ali",
+   "Ceccarelli",
+   "Randazzo"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "400metri|maschile|semifinali",
+  "giorno": 11,
+  "ora": "22:00",
+  "gara": "400 metri",
+  "genere": "maschile",
+  "fase": "semifinali",
+  "atleti": [
+   "Scotti",
+   "Benati",
+   "Sito",
+   "Soudassi"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "100ostacoli||finale",
+  "giorno": 11,
+  "ora": "22:30",
+  "gara": "100 ostacoli",
+  "genere": "",
+  "fase": "finale",
+  "atleti": [
+   "Carmassi",
+   "Carraro",
+   "Polzonetti"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "100metri|maschile|finale",
+  "giorno": 11,
+  "ora": "22:45",
+  "gara": "100 metri",
+  "genere": "maschile",
+  "fase": "finale",
+  "atleti": [
+   "Jacobs",
+   "Ali",
+   "Ceccarelli",
+   "Randazzo"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "decathlon||100metri",
+  "giorno": 12,
+  "ora": "11:35",
+  "gara": "Decathlon",
+  "genere": "",
+  "fase": "100 metri",
+  "atleti": [
+   "Dester",
+   "Nonino"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "lanciodeldisco|femminile|qualificazioni",
+  "giorno": 12,
+  "ora": "11:40",
+  "gara": "Lancio del disco",
+  "genere": "femminile",
+  "fase": "qualificazioni",
+  "atleti": [
+   "Benedetti",
+   "Conte",
+   "Osakue"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "400metri|femminile|batterie",
+  "giorno": 12,
+  "ora": "12:05",
+  "gara": "400 metri",
+  "genere": "femminile",
+  "fase": "batterie",
+  "atleti": [
+   "Bonora",
+   "Mangione"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "decathlon||saltoinlungo",
+  "giorno": 12,
+  "ora": "12:20",
+  "gara": "Decathlon",
+  "genere": "",
+  "fase": "salto in lungo",
+  "atleti": [
+   "Dester",
+   "Nonino"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "200metri|femminile|batterie",
+  "giorno": 12,
+  "ora": "12:40",
+  "gara": "200 metri",
+  "genere": "femminile",
+  "fase": "batterie",
+  "atleti": [
+   "Cambiolo",
+   "Fontana",
+   "Kaddari"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "800metri|maschile|semifinali",
+  "giorno": 12,
+  "ora": "13:20",
+  "gara": "800 metri",
+  "genere": "maschile",
+  "fase": "semifinali",
+  "atleti": [
+   "Lazzaro",
+   "Pernici",
+   "Tecuceanu"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "decathlon||gettodelpeso",
+  "giorno": 12,
+  "ora": "13:40",
+  "gara": "Decathlon",
+  "genere": "",
+  "fase": "getto del peso",
+  "atleti": [
+   "Dester",
+   "Nonino"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "400ostacoli|maschile|semifinali",
+  "giorno": 12,
+  "ora": "13:55",
+  "gara": "400 ostacoli",
+  "genere": "maschile",
+  "fase": "semifinali",
+  "atleti": [
+   "Sibilio",
+   "Bertoncelli",
+   "Sommacal"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "decathlon||saltoinalto",
+  "giorno": 12,
+  "ora": "20:10",
+  "gara": "Decathlon",
+  "genere": "",
+  "fase": "salto in alto",
+  "atleti": [
+   "Dester Nonino"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "110ostacoli||semifinali",
+  "giorno": 12,
+  "ora": "20:55",
+  "gara": "110 ostacoli",
+  "genere": "",
+  "fase": "semifinali",
+  "atleti": [
+   "Mulas"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "lanciodelmartello|femminile|finale",
+  "giorno": 12,
+  "ora": "21:15",
+  "gara": "Lancio del martello",
+  "genere": "femminile",
+  "fase": "finale",
+  "atleti": [
+   "Fantini",
+   "Mori"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "200metri|femminile|semifinali",
+  "giorno": 12,
+  "ora": "21:20",
+  "gara": "200 metri",
+  "genere": "femminile",
+  "fase": "semifinali",
+  "atleti": [
+   "Cambiolo",
+   "Fontana",
+   "Kaddari"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "saltotriplo|maschile|qualificazioni",
+  "giorno": 12,
+  "ora": "21:40",
+  "gara": "Salto triplo",
+  "genere": "maschile",
+  "fase": "qualificazioni",
+  "atleti": [
+   "Biasutti",
+   "Dallavalle",
+   "Diaz"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "400metri|maschile|finale",
+  "giorno": 12,
+  "ora": "21:50",
+  "gara": "400 metri",
+  "genere": "maschile",
+  "fase": "finale",
+  "atleti": [
+   "Benati",
+   "Scotti",
+   "Sito",
+   "Soudassi"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "400ostacoli||finale",
+  "giorno": 12,
+  "ora": "22:05",
+  "gara": "400 ostacoli",
+  "genere": "",
+  "fase": "finale",
+  "atleti": [
+   "Folorunso",
+   "Muraro",
+   "Sartori"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "decathlon||400metri",
+  "giorno": 12,
+  "ora": "22:22",
+  "gara": "Decathlon",
+  "genere": "",
+  "fase": "400 metri",
+  "atleti": [
+   "Dester",
+   "Nonino"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "110ostacoli||finale",
+  "giorno": 12,
+  "ora": "22:47",
+  "gara": "110 ostacoli",
+  "genere": "",
+  "fase": "finale",
+  "atleti": [
+   "Mulas"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "decathlon||110ostacoli",
+  "giorno": 13,
+  "ora": "11:33",
+  "gara": "Decathlon",
+  "genere": "",
+  "fase": "110 ostacoli",
+  "atleti": [
+   "Dester",
+   "Nonino"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "saltoinalto|femminile|qualificazioni",
+  "giorno": 13,
+  "ora": "11:55",
+  "gara": "Salto in alto",
+  "genere": "femminile",
+  "fase": "qualificazioni",
+  "atleti": [
+   "Morara",
+   "Pieroni",
+   "Tavernini"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "200metri||batterie",
+  "giorno": 13,
+  "ora": "12:05",
+  "gara": "200 metri",
+  "genere": "",
+  "fase": "batterie",
+  "atleti": [
+   "Dezza",
+   "Longobardi"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "decathlon||lanciodeldisco",
+  "giorno": 13,
+  "ora": "12:20",
+  "gara": "Decathlon",
+  "genere": "",
+  "fase": "lancio del disco",
+  "atleti": [
+   "Dester",
+   "Nonino"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "3000siepi|maschile|batterie",
+  "giorno": 13,
+  "ora": "12:30",
+  "gara": "3000 siepi",
+  "genere": "maschile",
+  "fase": "batterie",
+  "atleti": [
+   "Bouih",
+   "A. Zoghlami",
+   "O. Zoghlami"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "800metri|femminile|semifinali",
+  "giorno": 13,
+  "ora": "13:10",
+  "gara": "800 metri",
+  "genere": "femminile",
+  "fase": "semifinali",
+  "atleti": [
+   "Coiro"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "400metri|femminile|semifinali",
+  "giorno": 13,
+  "ora": "13:45",
+  "gara": "400 metri",
+  "genere": "femminile",
+  "fase": "semifinali",
+  "atleti": [
+   "Polinari",
+   "Bonora",
+   "Mangione"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "decathlon||saltoconlasta",
+  "giorno": 13,
+  "ora": "14:00",
+  "gara": "Decathlon",
+  "genere": "",
+  "fase": "salto con l’asta",
+  "atleti": [
+   "Dester",
+   "Nonino"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "tirodelgiavellotto|maschile|qualificazioni",
+  "giorno": 13,
+  "ora": "14:35",
+  "gara": "Tiro del giavellotto",
+  "genere": "maschile",
+  "fase": "qualificazioni",
+  "atleti": [
+   "Fina",
+   "Frattini"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "decathlon||tirodelgiavellotto",
+  "giorno": 13,
+  "ora": "19:35",
+  "gara": "Decathlon",
+  "genere": "",
+  "fase": "tiro del giavellotto",
+  "atleti": [
+   "Dester",
+   "Nonino"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "saltotriplo|femminile|finale",
+  "giorno": 13,
+  "ora": "20:40",
+  "gara": "Salto triplo",
+  "genere": "femminile",
+  "fase": "finale",
+  "atleti": [
+   "Derkach",
+   "Saraceni"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "saltoconlasta|femminile|finale",
+  "giorno": 13,
+  "ora": "20:50",
+  "gara": "Salto con l’asta",
+  "genere": "femminile",
+  "fase": "finale",
+  "atleti": [
+   "Malavisi",
+   "Molinarolo",
+   "Scardanzan"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "200metri|maschile|semifinali",
+  "giorno": 13,
+  "ora": "21:05",
+  "gara": "200 metri",
+  "genere": "maschile",
+  "fase": "semifinali",
+  "atleti": [
+   "Desalu",
+   "Dezza",
+   "Longobardi"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "3000siepi|femminile|finale",
+  "giorno": 13,
+  "ora": "21:30",
+  "gara": "3000 siepi",
+  "genere": "femminile",
+  "fase": "finale",
+  "atleti": [
+   "Colli"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "lanciodeldisco|maschile|finale",
+  "giorno": 13,
+  "ora": "21:43",
+  "gara": "Lancio del disco",
+  "genere": "maschile",
+  "fase": "finale",
+  "atleti": [
+   "Mannucci",
+   "Musci",
+   "Saccomano"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "decathlon||1500metri",
+  "giorno": 13,
+  "ora": "22:10",
+  "gara": "Decathlon",
+  "genere": "",
+  "fase": "1500 metri",
+  "atleti": [
+   "Dester",
+   "Nonino"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "800metri|maschile|finale",
+  "giorno": 13,
+  "ora": "22:28",
+  "gara": "800 metri",
+  "genere": "maschile",
+  "fase": "finale",
+  "atleti": [
+   "Lazzaro",
+   "Pernici",
+   "Tecuceanu"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "200metri|femminile|finale",
+  "giorno": 13,
+  "ora": "22:48",
+  "gara": "200 metri",
+  "genere": "femminile",
+  "fase": "finale",
+  "atleti": [
+   "Cambiolo",
+   "Fontana",
+   "Kaddari"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "eptathlon||100ostacoli",
+  "giorno": 14,
+  "ora": "11:35",
+  "gara": "Eptathlon",
+  "genere": "",
+  "fase": "100 ostacoli",
+  "atleti": [
+   "Gerevini"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "tirodelgiavellotto|femminile|qualificazioni",
+  "giorno": 14,
+  "ora": "11:40",
+  "gara": "Tiro del giavellotto",
+  "genere": "femminile",
+  "fase": "qualificazioni",
+  "atleti": [
+   "Padovan"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "saltoconlasta|maschile|qualificazioni",
+  "giorno": 14,
+  "ora": "11:50",
+  "gara": "Salto con l’asta",
+  "genere": "maschile",
+  "fase": "qualificazioni",
+  "atleti": [
+   "Oliveri"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "4400|maschile|batterie",
+  "giorno": 14,
+  "ora": "12:05",
+  "gara": "4×400",
+  "genere": "maschile",
+  "fase": "batterie",
+  "atleti": [
+   "Italia"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "eptathlon||saltoinalto",
+  "giorno": 14,
+  "ora": "12:25",
+  "gara": "Eptathlon",
+  "genere": "",
+  "fase": "salto in alto",
+  "atleti": [
+   "Gerevini"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "4400|femminile|batterie",
+  "giorno": 14,
+  "ora": "12:35",
+  "gara": "4×400",
+  "genere": "femminile",
+  "fase": "batterie",
+  "atleti": [
+   "Italia"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "1500metri|femminile|batterie",
+  "giorno": 14,
+  "ora": "13:05",
+  "gara": "1500 metri",
+  "genere": "femminile",
+  "fase": "batterie",
+  "atleti": [
+   "Arese",
+   "Bussotti"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "eptathlon||gettodelpeso",
+  "giorno": 14,
+  "ora": "20:35",
+  "gara": "Eptathlon",
+  "genere": "",
+  "fase": "getto del peso",
+  "atleti": [
+   "Gerevini"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "10000metri|femminile|finale",
+  "giorno": 14,
+  "ora": "20:45",
+  "gara": "10.000 metri",
+  "genere": "femminile",
+  "fase": "finale",
+  "atleti": [
+   "Battocletti",
+   "Del Buono",
+   "Palmero"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "saltoinalto|maschile|finale",
+  "giorno": 14,
+  "ora": "21:00",
+  "gara": "Salto in alto",
+  "genere": "maschile",
+  "fase": "finale",
+  "atleti": [
+   "Falocchi",
+   "Sioli",
+   "Stronati",
+   "Tamberi"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "lanciodeldisco|femminile|finale",
+  "giorno": 14,
+  "ora": "21:30",
+  "gara": "Lancio del disco",
+  "genere": "femminile",
+  "fase": "finale",
+  "atleti": [
+   "Benedetti",
+   "Conti",
+   "Osakue"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "400ostacoli|maschile|finale",
+  "giorno": 14,
+  "ora": "21:40",
+  "gara": "400 ostacoli",
+  "genere": "maschile",
+  "fase": "finale",
+  "atleti": [
+   "Bertoncelli",
+   "Sibilio",
+   "Sommacal"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "eptathlon||200metri",
+  "giorno": 14,
+  "ora": "21:55",
+  "gara": "Eptathlon",
+  "genere": "",
+  "fase": "200 metri",
+  "atleti": [
+   "Gerevini"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "200metri|maschile|finale",
+  "giorno": 14,
+  "ora": "22:25",
+  "gara": "200 metri",
+  "genere": "maschile",
+  "fase": "finale",
+  "atleti": [
+   "Desalu",
+   "Dezza",
+   "Longobardi"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "800metri|femminile|finale",
+  "giorno": 14,
+  "ora": "22:45",
+  "gara": "800 metri",
+  "genere": "femminile",
+  "fase": "finale",
+  "atleti": [
+   "Coiro"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "mezzamaratonadimarcia|maschile|finale",
+  "giorno": 15,
+  "ora": "08:30",
+  "gara": "Mezza maratona di marcia",
+  "genere": "maschile",
+  "fase": "finale",
+  "atleti": [
+   "Cosi",
+   "Fortunato",
+   "Picchiottino"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "mezzamaratonadimarcia|femminile|finale",
+  "giorno": 15,
+  "ora": "08:35",
+  "gara": "Mezza maratona di marcia",
+  "genere": "femminile",
+  "fase": "finale",
+  "atleti": [
+   "Cantò",
+   "Colombi",
+   "Mihai",
+   "Palmisano"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "maratonadimarcia|maschile|finale",
+  "giorno": 15,
+  "ora": "08:45",
+  "gara": "Maratona di marcia",
+  "genere": "maschile",
+  "fase": "finale",
+  "atleti": [
+   "Agrusti",
+   "Orsoni",
+   "Stano"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "maratonadimarcia|femminile|finale",
+  "giorno": 15,
+  "ora": "08:50",
+  "gara": "Maratona di marcia",
+  "genere": "femminile",
+  "fase": "finale",
+  "atleti": [
+   "Curiazzi",
+   "Fiorini",
+   "Giorgi"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "eptathlon||saltoinlungo",
+  "giorno": 15,
+  "ora": "11:25",
+  "gara": "Eptathlon",
+  "genere": "",
+  "fase": "salto in lungo",
+  "atleti": [
+   "Gerevini"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "saltoinlungo|femminile|qualificazioni",
+  "giorno": 15,
+  "ora": "12:50",
+  "gara": "Salto in lungo",
+  "genere": "femminile",
+  "fase": "qualificazioni",
+  "atleti": [
+   "Iapichino"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "eptathlon||tirodelgiavellotto",
+  "giorno": 15,
+  "ora": "12:55",
+  "gara": "Eptathlon",
+  "genere": "",
+  "fase": "tiro del giavellotto",
+  "atleti": [
+   "Gerevini"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "1500metri|femminile|batterie",
+  "giorno": 15,
+  "ora": "13:35",
+  "gara": "1500 metri",
+  "genere": "femminile",
+  "fase": "batterie",
+  "atleti": [
+   "Cavalli",
+   "Sabbatini"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "4100|femminile|batterie",
+  "giorno": 15,
+  "ora": "14:00",
+  "gara": "4×100",
+  "genere": "femminile",
+  "fase": "batterie",
+  "atleti": [
+   "Italia"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "4100|maschile|batterie",
+  "giorno": 15,
+  "ora": "14:14",
+  "gara": "4×100",
+  "genere": "maschile",
+  "fase": "batterie",
+  "atleti": [
+   "Italia"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "eptathlon||800metri",
+  "giorno": 15,
+  "ora": "20:45",
+  "gara": "Eptathlon",
+  "genere": "",
+  "fase": "800 metri",
+  "atleti": [
+   "Gerevini"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "tirodelgiavellotto|maschile|finale",
+  "giorno": 15,
+  "ora": "21:00",
+  "gara": "Tiro del giavellotto",
+  "genere": "maschile",
+  "fase": "finale",
+  "atleti": [
+   "Fina",
+   "Frattini"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "saltoinalto|femminile|finale",
+  "giorno": 15,
+  "ora": "21:04",
+  "gara": "Salto in alto",
+  "genere": "femminile",
+  "fase": "finale",
+  "atleti": [
+   "Morara",
+   "Pieroni",
+   "Tavernini"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "400metri|femminile|finale",
+  "giorno": 15,
+  "ora": "21:09",
+  "gara": "400 metri",
+  "genere": "femminile",
+  "fase": "finale",
+  "atleti": [
+   "Bonora",
+   "Mangione",
+   "Polinari"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "saltotriplo|maschile|finale",
+  "giorno": 15,
+  "ora": "21:16",
+  "gara": "Salto triplo",
+  "genere": "maschile",
+  "fase": "finale",
+  "atleti": [
+   "Biasutti",
+   "Diaz",
+   "Dallavalle"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "10000metri|maschile|finale",
+  "giorno": 15,
+  "ora": "21:25",
+  "gara": "10.000 metri",
+  "genere": "maschile",
+  "fase": "finale",
+  "atleti": [
+   "Crippa",
+   "Guerra",
+   "Selvarolo"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "1500metri|maschile|finale",
+  "giorno": 15,
+  "ora": "22:07",
+  "gara": "1500 metri",
+  "genere": "maschile",
+  "fase": "finale",
+  "atleti": [
+   "Arese",
+   "Bussotti"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "4100|maschile|finale",
+  "giorno": 15,
+  "ora": "22:30",
+  "gara": "4×100",
+  "genere": "maschile",
+  "fase": "finale",
+  "atleti": [
+   "Italia"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "4100|femminile|finale",
+  "giorno": 15,
+  "ora": "22:45",
+  "gara": "4×100",
+  "genere": "femminile",
+  "fase": "finale",
+  "atleti": [
+   "Italia"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "maratona|femminile|finale",
+  "giorno": 16,
+  "ora": "08:30",
+  "gara": "Maratona",
+  "genere": "femminile",
+  "fase": "finale",
+  "atleti": [
+   "Epis",
+   "Lonedo",
+   "Tuccitto",
+   "Yaremchuk"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "maratona|maschile|finale",
+  "giorno": 16,
+  "ora": "09:10",
+  "gara": "Maratona",
+  "genere": "maschile",
+  "fase": "finale",
+  "atleti": [
+   "Chevrier",
+   "Jaafari",
+   "Meucci",
+   "Ouhda",
+   "Riva"
+  ],
+  "eventuale": false
+ },
+ {
+  "k": "tirodelgiavellotto|femminile|finale",
+  "giorno": 16,
+  "ora": "20:35",
+  "gara": "Tiro del giavellotto",
+  "genere": "femminile",
+  "fase": "finale",
+  "atleti": [
+   "Padovan"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "saltoconlasta|maschile|finale",
+  "giorno": 16,
+  "ora": "20:40",
+  "gara": "Salto con l’asta",
+  "genere": "maschile",
+  "fase": "finale",
+  "atleti": [
+   "Olivieri"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "saltoinlungo|femminile|finale",
+  "giorno": 16,
+  "ora": "21:20",
+  "gara": "Salto in lungo",
+  "genere": "femminile",
+  "fase": "finale",
+  "atleti": [
+   "Iapichino"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "4100|mista|finale",
+  "giorno": 16,
+  "ora": "21:35",
+  "gara": "4×100",
+  "genere": "mista",
+  "fase": "finale",
+  "atleti": [
+   "Italia"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "3000siepi|maschile|finale",
+  "giorno": 16,
+  "ora": "21:50",
+  "gara": "3000 siepi",
+  "genere": "maschile",
+  "fase": "finale",
+  "atleti": [
+   "Bouih",
+   "A. Zoghlami",
+   "O. Zoghlami"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "1500metri|femminile|finale",
+  "giorno": 16,
+  "ora": "22:10",
+  "gara": "1500 metri",
+  "genere": "femminile",
+  "fase": "finale",
+  "atleti": [
+   "Cavalli",
+   "Sabbatini"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "4400|femminile|finale",
+  "giorno": 16,
+  "ora": "22:30",
+  "gara": "4×400",
+  "genere": "femminile",
+  "fase": "finale",
+  "atleti": [
+   "Italia"
+  ],
+  "eventuale": true
+ },
+ {
+  "k": "4400|maschile|finale",
+  "giorno": 16,
+  "ora": "22:45",
+  "gara": "4×400",
+  "genere": "maschile",
+  "fase": "finale",
+  "atleti": [
+   "Italia"
+  ],
+  "eventuale": true
+ }
+]
