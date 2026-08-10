@@ -18,6 +18,7 @@ import json
 import os
 import re
 import sys
+import time
 import unicodedata
 import urllib.request
 
@@ -31,21 +32,41 @@ ICS = "europei.ics"
 STATO = "stato.json"
 
 
+class Irraggiungibile(Exception):
+    """La fonte non risponde: e' transitorio, non un guasto da segnalare."""
+
+
 def scarica():
-    req = urllib.request.Request(URL, headers={"User-Agent": UA,
-                                               "Accept-Language": "it-IT,it"})
-    try:
-        with urllib.request.urlopen(req, timeout=45) as r:
-            return r.read().decode("utf-8", "ignore")
-    except Exception:
-        # Ripiego per l'esecuzione in locale sul Mac, dove il Python di
-        # python.org non ha i certificati installati e urllib fallisce.
-        import subprocess
-        p = subprocess.run(["curl", "-sL", "--max-time", "45", "-A", UA, URL],
-                           capture_output=True)
-        if p.returncode != 0 or len(p.stdout) < 5000:
-            raise RuntimeError("download fallito (curl rc=%d)" % p.returncode)
-        return p.stdout.decode("utf-8", "ignore")
+    """Scarica la pagina, con tre tentativi.
+
+    Su GitHub Actions capita che OA Sport rifiuti o lasci cadere la richiesta
+    (le richieste arrivano da un datacenter): e' successo 3 volte su 20 la prima
+    notte. Non e' un guasto, e' rumore: si riprova e passa.
+    """
+    ultimo = None
+    for tentativo in range(3):
+        if tentativo:
+            time.sleep(15)
+        try:
+            req = urllib.request.Request(
+                URL, headers={"User-Agent": UA, "Accept-Language": "it-IT,it"})
+            with urllib.request.urlopen(req, timeout=45) as r:
+                dati = r.read()
+            if len(dati) > 5000:
+                return dati.decode("utf-8", "ignore")
+            ultimo = "risposta troppo corta (%d byte)" % len(dati)
+        except Exception as ex:
+            ultimo = str(ex)
+        try:
+            import subprocess
+            pr = subprocess.run(["curl", "-sL", "--max-time", "45",
+                                 "-A", UA, URL], capture_output=True)
+            if pr.returncode == 0 and len(pr.stdout) > 5000:
+                return pr.stdout.decode("utf-8", "ignore")
+            ultimo = "curl rc=%d, %d byte" % (pr.returncode, len(pr.stdout))
+        except Exception as ex:
+            ultimo = str(ex)
+    raise Irraggiungibile(ultimo or "motivo ignoto")
 
 
 def testo(h):
@@ -258,6 +279,16 @@ def main():
 if __name__ == "__main__":
     try:
         main()
+    except Irraggiungibile as ex:
+        # Non e' un fallimento: la pagina risponde di nuovo al prossimo giro e
+        # il calendario resta all'ultima versione buona. Uscire con errore qui
+        # significherebbe solo una mail di allarme per un problema che si
+        # risolve da solo.
+        print("fonte momentaneamente irraggiungibile (%s): riprovo al prossimo "
+              "giro" % ex)
     except Exception as ex:
+        # Questo invece va segnalato: vuol dire che la pagina e' cambiata
+        # nella struttura e il calendario smetterebbe di aggiornarsi in
+        # silenzio.
         print("ERRORE:", ex, file=sys.stderr)
         sys.exit(1)
