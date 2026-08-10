@@ -2,7 +2,9 @@ name: Aggiorna calendario Europei
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    # Minuti sfalsati e solo le ore di gara: le esecuzioni a inizio ora
+    # sono le piu' contese e GitHub le ritarda di piu'. Orari UTC.
+    - cron: "7,22,37,52 5-22 * * *"
   workflow_dispatch:
 
 permissions:
