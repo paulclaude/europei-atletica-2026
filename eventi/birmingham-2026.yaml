@@ -1,0 +1,68 @@
+# Europei di atletica, Birmingham 10-16 agosto 2026.
+# Prima configurazione, ricostruita da genera.py e stato.json del 2026:
+# stessi UID, stesso DTSTAMP, stessi file pubblicati.
+
+nome: Europei di atletica Birmingham 2026
+
+# Prefisso degli UID degli eventi. NON cambiarlo a evento in corso: chi ha
+# sottoscritto il calendario si ritroverebbe ogni gara doppia.
+sigla: ea26
+dominio_uid: paolo.local
+
+date:
+  inizio: 2026-08-10
+  fine: 2026-08-16
+
+sede:
+  citta: Birmingham
+  luogo: Alexander Stadium, Birmingham (GBR)
+  fuso: Europe/London          # per l'ora locale nella descrizione
+
+calendario:
+  nome: Europei atletica 2026 - Azzurri
+  prodid: -//Paolo//Europei Atletica Birmingham 2026//IT
+  # I due file gia' pubblicati: l'URL sottoscritto punta a europei.ics.
+  file: europei.ics
+  stato: stato.json
+  dtstamp: 20260809T000000Z    # fisso: file identico se i dati non cambiano
+  aggiornamento_minuti: 15     # ogni quanto Calendario ricontrolla
+
+tv: >-
+  TV: Rai 2 / Rai Sport HD (in chiaro), Sky Sport, Eurosport 1.
+  Streaming: RaiPlay, NOW, Sky Go, HBO Max, Discovery+.
+
+# Ore di gara, in ORA ITALIANA. Servono al cron (python -m calendario cron)
+# e al controllo di freschezza. La sera si arriva a mezzanotte per prendere
+# le cronache pubblicate dopo l'ultima finale.
+sessioni:
+  - "11:00-15:30"
+  - "19:00-23:59"
+
+# Minuti sfalsati: il cron di GitHub ritarda di piu' le esecuzioni a :00.
+cron_minuti: [7, 22, 37, 52]
+
+fonti:
+  # Programma: giorno, ora, gara, fase, atleti previsti.
+  - nome: oasport
+    ruolo: programma
+    parser: oasport
+    url: https://www.oasport.it/2026/08/europei-atletica-2026-gli-italiani-in-gara-giorno-per-giorno-orari-e-dove-vederli-in-tv/
+    fuso: Europe/Rome          # gli orari della pagina sono italiani
+    minimo_eventi: 60
+    # Il programma puo' legittimamente restare fermo per giorni: a doversi
+    # muovere sono gli avanzamenti. Nessun allarme su questa fonte.
+    allarme_dopo_minuti: null
+
+  # Avanzamenti: chi passa, chi esce, chi si ritira. Articoli LIVE FIDAL.
+  - nome: fidal-live
+    ruolo: avanzamenti
+    parser: articoli_live
+    indice: https://www.fidal.it/
+    filtro_url: /content/
+    titolo: LIVE|Birmingham
+    massimo_articoli: 10
+    minimo_caratteri: 300
+    modello: claude-opus-5
+    # Se il contenuto estratto non cambia per 150 minuti DI GARA (pause e
+    # notti escluse), il workflow apre una issue.
+    allarme_dopo_minuti: 150

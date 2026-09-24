@@ -1,0 +1,60 @@
+{
+ "esiti": [
+  {
+   "atleta": "Daisy Osakue",
+   "gara": "Lancio del disco",
+   "genere": "femminile",
+   "fase": "qualificazioni",
+   "esito": "qualificato",
+   "citazione": "Daisy Osakue e Benedetti (per lei 61,20) centrano la finale del lancio del disco."
+  },
+  {
+   "atleta": "Benedetti",
+   "gara": "Lancio del disco",
+   "genere": "femminile",
+   "fase": "qualificazioni",
+   "esito": "qualificato",
+   "citazione": "Daisy Osakue e Benedetti (per lei 61,20) centrano la finale del lancio del disco."
+  },
+  {
+   "atleta": "Conte",
+   "gara": "Lancio del disco",
+   "genere": "femminile",
+   "fase": "qualificazioni",
+   "esito": "eliminato",
+   "citazione": "Si ferma Conte, dodicesima nel suo gruppo con 55,40."
+  },
+  {
+   "atleta": "Mulas",
+   "gara": "110 ostacoli",
+   "genere": "maschile",
+   "fase": "semifinali",
+   "esito": "eliminato",
+   "citazione": "Finisce in semifinale l'Europeo di Mulas, sesto in 13.62 ed eliminato."
+  },
+  {
+   "atleta": "Dalia Kaddari",
+   "gara": "200 metri",
+   "genere": "femminile",
+   "fase": "semifinali",
+   "esito": "qualificato",
+   "citazione": "Dalia Kaddari conquista la finale con 22.71."
+  },
+  {
+   "atleta": "Cambiolo",
+   "gara": "200 metri",
+   "genere": "femminile",
+   "fase": "semifinali",
+   "esito": "eliminato",
+   "citazione": "Eliminate Cambiolo e Fontana."
+  },
+  {
+   "atleta": "Fontana",
+   "gara": "200 metri",
+   "genere": "femminile",
+   "fase": "semifinali",
+   "esito": "eliminato",
+   "citazione": "Eliminate Cambiolo e Fontana."
+  }
+ ]
+}

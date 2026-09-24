@@ -1,14 +1,25 @@
-name: Aggiorna calendario Europei
+name: Aggiorna calendario azzurri
+
+# Questo workflow e' DISABILITATO su GitHub (Actions > questo workflow >
+# "..." > Enable workflow per riattivarlo). Modificare il file non lo
+# riattiva. Vedi il README, "Preparare un nuovo evento".
 
 on:
   schedule:
-    # Minuti sfalsati e solo le ore di gara: le esecuzioni a inizio ora
-    # sono le piu' contese e GitHub le ritarda di piu'. Orari UTC.
-    - cron: "7,22,37,52 5-22 * * *"
+    # Solo i giorni e le ore di gara, a minuti sfalsati, in UTC.
+    # NON scriverla a mano: generala con
+    #   python -m calendario cron eventi/birmingham-2026.yaml
+    # (un test controlla che coincida con il file dell'evento).
+    - cron: "7,22,37,52 9-13,17-21 10-16 8 *"
   workflow_dispatch:
 
+env:
+  # Il file dell'evento da seguire.
+  EVENTO: eventi/birmingham-2026.yaml
+
 permissions:
-  contents: write
+  contents: write     # per pubblicare calendario e stato
+  issues: write       # per l'avviso "fonte ferma"
 
 concurrency:
   group: aggiorna-calendario
@@ -17,24 +28,64 @@ concurrency:
 jobs:
   aggiorna:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
+
+      - name: Installa le dipendenze
+        run: pip install -r requirements.txt
 
       - name: Rigenera il calendario
-        run: python genera.py
+        id: genera
+        # Anche se fallisce (pagina cambiata, chiave non valida) si pubblica
+        # quello che e' stato prodotto e si aggiorna la issue; il job viene
+        # fatto fallire alla fine, cosi' arriva la mail di GitHub.
+        continue-on-error: true
+        env:
+          # Senza il secret il calendario usa il solo programma.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m calendario aggiorna "$EVENTO" --allarme "$RUNNER_TEMP/allarme.md"
 
       - name: Pubblica se e' cambiato qualcosa
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add europei.ics stato.json
+          for f in $(python -m calendario file "$EVENTO"); do
+            if [ -f "$f" ]; then git add "$f"; fi
+          done
           if git diff --staged --quiet; then
             echo "niente da pubblicare"
           else
             git commit -m "aggiornamento $(date -u +'%d/%m %H:%M UTC')"
             git push
           fi
+
+      - name: Apri o chiudi la issue "fonte ferma"
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ESITO: ${{ steps.genera.outcome }}
+        run: |
+          gh label create fonte-ferma --color B60205 \
+            --description "Una fonte del calendario non si aggiorna" --force >/dev/null || true
+          aperta=$(gh issue list --label fonte-ferma --state open --json number --jq '.[0].number // empty')
+          if [ -f "$RUNNER_TEMP/allarme.md" ]; then
+            if [ -z "$aperta" ]; then
+              gh issue create --label fonte-ferma --body-file "$RUNNER_TEMP/allarme.md" \
+                --title "Fonte ferma durante le gare ($EVENTO)"
+            else
+              echo "issue #$aperta gia' aperta"
+            fi
+          elif [ -n "$aperta" ] && [ "$ESITO" = "success" ]; then
+            gh issue close "$aperta" --comment "La fonte ha ripreso ad aggiornarsi: chiudo."
+          fi
+
+      - name: Segnala l'errore
+        if: steps.genera.outcome == 'failure'
+        run: |
+          echo "::error::La generazione del calendario ha dato errore: leggi il log del passo 'Rigenera il calendario'."
+          exit 1

@@ -1,0 +1,65 @@
+# ESEMPIO da copiare per un evento nuovo. Non e' un evento vero: nomi,
+# date e indirizzi sono segnaposto da sostituire. Il README spiega ogni
+# passo ("Preparare un nuovo evento").
+#
+# Lo scenario scelto e' volutamente scomodo: una sede lontana (Tokyo, 7 ore
+# avanti d'estate) e una fonte che scrive gli orari LOCALI. Il sistema li
+# porta all'ora italiana e in descrizione mette l'ora di Tokyo.
+
+nome: Esempio - Mondiali di atletica a Tokyo
+
+# Prefisso degli UID. Unico per ogni evento, e poi NON va piu' cambiato.
+sigla: esempio-tokyo
+dominio_uid: calendario.local
+
+date:
+  inizio: 2027-09-10
+  fine: 2027-09-19
+
+sede:
+  citta: Tokyo
+  luogo: Stadio Nazionale, Tokyo (JPN)
+  fuso: Asia/Tokyo
+
+calendario:
+  nome: Mondiali atletica - Azzurri
+  # file e stato si possono omettere: diventano calendari/esempio-tokyo.ics
+  # e stato/esempio-tokyo.json. Scegline il nome PRIMA di condividere il link.
+  dtstamp: 20270901T000000Z
+  aggiornamento_minuti: 15
+
+tv: "TV: da completare (canali e piattaforme streaming)."
+
+# Ore di gara in ORA ITALIANA. A Tokyo la sessione del mattino (9-13 locali)
+# cade nella notte italiana, quella della sera (19-22:30) a pranzo.
+sessioni:
+  - "02:00-06:30"
+  - "12:00-16:30"
+
+cron_minuti: [7, 22, 37, 52]
+
+fonti:
+  - nome: programma
+    ruolo: programma
+    parser: oasport
+    url: https://www.oasport.it/INDIRIZZO-DELLA-PAGINA-CON-IL-PROGRAMMA/
+    fuso: Asia/Tokyo           # gli orari della pagina sono quelli di Tokyo
+    inizio: CALENDARIO ITALIANI
+    minimo_eventi: 30
+    allarme_dopo_minuti: null
+
+  - nome: fidal-live
+    ruolo: avanzamenti
+    parser: articoli_live
+    indice: https://www.fidal.it/
+    filtro_url: /content/
+    titolo: LIVE|Tokyo|Mondiali
+    massimo_articoli: 10
+    modello: claude-opus-5
+    allarme_dopo_minuti: 150
+
+# Durate delle gare, se le stime per l'atletica non vanno bene (minuti).
+# "se" e' una espressione regolare su "gara fase".
+durate:
+  - se: "maratona"
+    minuti: 150
