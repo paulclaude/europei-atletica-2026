@@ -1,0 +1,124 @@
+{
+ "esiti": [
+  {
+   "atleta": "Asia Tavernini",
+   "gara": "Salto in alto",
+   "genere": "femminile",
+   "fase": "qualificazioni",
+   "esito": "qualificato",
+   "citazione": "Asia Tavernini e Idea Pieroni superano la misura decisiva di 1,91 e volano in finale"
+  },
+  {
+   "atleta": "Idea Pieroni",
+   "gara": "Salto in alto",
+   "genere": "femminile",
+   "fase": "qualificazioni",
+   "esito": "qualificato",
+   "citazione": "Asia Tavernini e Idea Pieroni superano la misura decisiva di 1,91 e volano in finale"
+  },
+  {
+   "atleta": "Morara",
+   "gara": "Salto in alto",
+   "genere": "femminile",
+   "fase": "qualificazioni",
+   "esito": "eliminato",
+   "citazione": "Si ferma invece Morara, che si arresta a 1,85 ed è eliminata."
+  },
+  {
+   "atleta": "Filippo Dezza",
+   "gara": "200 metri",
+   "genere": "maschile",
+   "fase": "batterie",
+   "esito": "qualificato",
+   "citazione": "Avanti in semifinale Filippo Dezza"
+  },
+  {
+   "atleta": "Eduardo Longobardi",
+   "gara": "200 metri",
+   "genere": "maschile",
+   "fase": "batterie",
+   "esito": "qualificato",
+   "citazione": "ed Eduardo Longobardi (20.91), ripescato con il terzo tempo di recupero"
+  },
+  {
+   "atleta": "Osama Zoghlami",
+   "gara": "3000 siepi",
+   "genere": "maschile",
+   "fase": "batterie",
+   "esito": "qualificato",
+   "citazione": "Osama Zoghlami vince la sua batteria in 8:34.52"
+  },
+  {
+   "atleta": "Yassin Bouih",
+   "gara": "3000 siepi",
+   "genere": "maschile",
+   "fase": "batterie",
+   "esito": "qualificato",
+   "citazione": "Yassin Bouih (8:36.25) e Ala Zoghlami (8:36.52) passano"
+  },
+  {
+   "atleta": "Ala Zoghlami",
+   "gara": "3000 siepi",
+   "genere": "maschile",
+   "fase": "batterie",
+   "esito": "qualificato",
+   "citazione": "Yassin Bouih (8:36.25) e Ala Zoghlami (8:36.52) passano"
+  },
+  {
+   "atleta": "Eloisa Coiro",
+   "gara": "800 metri",
+   "genere": "femminile",
+   "fase": "semifinali",
+   "esito": "qualificato",
+   "citazione": "Eloisa Coiro è in finale con 1:57.74"
+  },
+  {
+   "atleta": "Anna Polinari",
+   "gara": "400 metri",
+   "genere": "femminile",
+   "fase": "semifinali",
+   "esito": "qualificato",
+   "citazione": "Anna Polinari chiude quarta la sua semifinale in 51.02 e conquista la finale"
+  },
+  {
+   "atleta": "Alice Mangione",
+   "gara": "400 metri",
+   "genere": "femminile",
+   "fase": "semifinali",
+   "esito": "eliminato",
+   "citazione": "Fuori invece Alice Mangione (51.60) e Bonora (51.84)."
+  },
+  {
+   "atleta": "Bonora",
+   "gara": "400 metri",
+   "genere": "femminile",
+   "fase": "semifinali",
+   "esito": "eliminato",
+   "citazione": "Fuori invece Alice Mangione (51.60) e Bonora (51.84)."
+  },
+  {
+   "atleta": "Nonino",
+   "gara": "Decathlon",
+   "genere": "",
+   "fase": "salto con l'asta",
+   "esito": "ritirato",
+   "citazione": "dopo il salto con l'asta si ritira per un risentimento al flessore"
+  },
+  {
+   "atleta": "Giovanni Frattini",
+   "gara": "Tiro del giavellotto",
+   "genere": "maschile",
+   "fase": "qualificazioni",
+   "esito": "qualificato",
+   "citazione": "Giovanni Frattini lancia oltre gli ottanta metri, 80,54"
+  },
+  {
+   "atleta": "Fina",
+   "gara": "Tiro del giavellotto",
+   "genere": "maschile",
+   "fase": "qualificazioni",
+   "esito": "eliminato",
+   "citazione": "Niente da fare per Fina, eliminato con 76,12."
+  }
+ ]
+}
